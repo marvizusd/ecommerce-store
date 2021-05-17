@@ -1,0 +1,92 @@
+[
+    {
+      "id": "604d6d4722f5b63b3116ce2c",
+      "isSale": false,
+      "salePrice": null,
+      "price": "69.16",
+      "image": "http://placehold.it/200x200",
+      "category": "pants",
+      "title": "BUZZNESS pants"
+    },
+    {
+      "id": "604d6d478e42d6021399c8e3",
+      "isSale": false,
+      "salePrice": null,
+      "price": "32.78",
+      "image": "http://placehold.it/200x200",
+      "category": "socks",
+      "title": "CYTRAK socks"
+    },
+    {
+      "id": "604d6d47a38c41cd1d1bbc32",
+      "isSale": true,
+      "salePrice": "18.5",
+      "price": "93.44",
+      "image": "http://placehold.it/200x200",
+      "category": "pants",
+      "title": "DOGNOSIS pants"
+    },
+    {
+      "id": "604d6d47aa1968f8744f7d6d",
+      "isSale": false,
+      "salePrice": null,
+      "price": "20.17",
+      "image": "http://placehold.it/200x200",
+      "category": "pants",
+      "title": "ACCEL pants"
+    },
+    {
+      "id": "604d6d47c7d8d51dc4ebaa42",
+      "isSale": true,
+      "salePrice": "17.53",
+      "price": "21.88",
+      "image": "http://placehold.it/200x200",
+      "category": "socks",
+      "title": "ZENTRY socks"
+    },
+    {
+      "id": "604d6d477a24282b97c1885d",
+      "isSale": false,
+      "salePrice": null,
+      "price": "34.34",
+      "image": "http://placehold.it/200x200",
+      "category": "shoes",
+      "title": "KONGLE shoes"
+    },
+    {
+      "id": "604d6d472b33ba315178b8c0",
+      "isSale": false,
+      "salePrice": null,
+      "price": "39.63",
+      "image": "http://placehold.it/200x200",
+      "category": "shoes",
+      "title": "INSECTUS shoes"
+    },
+    {
+      "id": "604d6d4771315ee2695a3cf5",
+      "isSale": true,
+      "salePrice": "18.43",
+      "price": "33.58",
+      "image": "http://placehold.it/200x200",
+      "category": "shirt",
+      "title": "BIZMATIC shirt"
+    },
+    {
+      "id": "604d6d476a7bb9b0ff6ac3f8",
+      "isSale": true,
+      "salePrice": "12.73",
+      "price": "43.13",
+      "image": "http://placehold.it/200x200",
+      "category": "shirt",
+      "title": "ENAUT shirt"
+    },
+    {
+      "id": "604d6d4700a190b61abf1e67",
+      "isSale": false,
+      "salePrice": null,
+      "price": "49.44",
+      "image": "http://placehold.it/200x200",
+      "category": "socks",
+      "title": "FANFARE socks"
+    }
+  ]
